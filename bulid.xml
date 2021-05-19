@@ -57,7 +57,10 @@
            classpathref="compile.path"/>
 
     </target>
+<target name="test" depends="compile">
+ 
 
+    </target>
     
 
     <target name="junit" depends="compile">
@@ -107,8 +110,5 @@
         </junitreport>
 
     </target>
-<target name="test" depends="junit">
- 
 
-    </target>
 </project>
