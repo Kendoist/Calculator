@@ -58,10 +58,7 @@
 
     </target>
 
-    <target name="test" depends="junit">
- 
-
-    </target>
+    
 
     <target name="junit" depends="compile">
 
@@ -110,5 +107,8 @@
         </junitreport>
 
     </target>
+<target name="test" depends="junit">
+ 
 
+    </target>
 </project>
