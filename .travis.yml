@@ -3,3 +3,4 @@ jdk:
  - openjdk8
 sudo: required
 before_install: sudo apt-get install ant-optional
+script: ant build
