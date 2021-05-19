@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="4" hostname="LAPTOP-U6RJ971V" id="0" name="CalculatorTest" package="" skipped="0" tests="11" time="0.085" timestamp="2021-05-18T12:01:28">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="lib.dir" value="lib" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="D:\eclipse\plugins\org.eclipse.pde.build_3.10.600.v20191011-0535\templates" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="run.srcpath" value="src" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="ant.file.project" value="D:\javaworkspace\Calculator\bulid.xml" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_202\lib\resources.jar;C:\Program Files\Java\jre1.8.0_202\lib\rt.jar;C:\Program Files\Java\jre1.8.0_202\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_202\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_202\lib\jce.jar;C:\Program Files\Java\jre1.8.0_202\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_202\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_202\classes" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="D:\javaworkspace\Calculator\apache-ant-1.9.7" />
+
+          <property name="java.runtime.version" value="1.8.0_202-b08" />
+
+          <property name="run.classpath" value="bin" />
+
+          <property name="test.report" value="report" />
+
+          <property name="user.name" value="catastrophe1313" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_202\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="project" />
+
+          <property name="java.version" value="1.8.0_202" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_202\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="test.xml" value="xml" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre1.8.0_202" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="D:\javaworkspace\Calculator\bulid.xml" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="test.srcpath" value="test" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.202-b08" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="D:\javaworkspace\Calculator\apache-ant-1.9.7\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.script" value="" />
+
+          <property name="eclipse.pdebuild.scripts" value="D:\eclipse\plugins\org.eclipse.pde.build_3.10.600.v20191011-0535\scripts" />
+
+          <property name="user.home" value="C:\Users\catastrophe1313" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_202/bin/server;C:/Program Files/Java/jre1.8.0_202/bin;C:/Program Files/Java/jre1.8.0_202/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;D:\CUDA\bin;D:\CUDA\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\catastrophe1313\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;&quot;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\Java\jdk1.8.0_202\jre\bin;&quot;;D:\CUDA\lib\x64;D:\CUDA\bin\win64;D:\CUDA\common\lib\x64;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\lib\x64;D:\BaiduNetdiskDownload\Opencv3.4.5\cv\opencv\build\x64\vc15\bin;D:\BaiduNetdiskDownload\Opencv3.4.5\cv\opencv\build\x64\vc15\lib;D:\BaiduNetdiskDownload\yolov4\darknet-master\build\darknet\x64;D:\cmake\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Git\cmd;D:\anaconda;D:\anaconda\Library\mingw-w64\bin;D:\anaconda\Library\usr\bin;D:\anaconda\Library\bin;D:\anaconda\Scripts;C:\Users\catastrophe1313\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\IntelliJ IDEA 2019.2.2\bin;;D:\Dev-Cpp\MinGW64\bin;D:\apache-maven-3.8.1\bin;;D:\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner CalculatorTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\javaworkspace\Calculator\xml\TEST-CalculatorTest.xml crashfile=D:\javaworkspace\Calculator\junitvmwatcher3390615252478981284.properties propsfile=D:\javaworkspace\Calculator\junit3311056675126536320.properties" />
+
+          <property name="java.class.path" value="D:\javaworkspace\Calculator\bin;D:\javaworkspace\Calculator\lib\junit-4.10.jar;D:\javaworkspace\Calculator;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\Java\jdk1.8.0_202\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_202\lib\tools.jar;D:\javaworkspace\Calculator\apache-ant-1.9.7\lib\ant-launcher.jar;D:\javaworkspace\Calculator\apache-ant-1.9.7\lib\ant.jar;D:\javaworkspace\Calculator\apache-ant-1.9.7\lib\ant-junit.jar;D:\javaworkspace\Calculator\apache-ant-1.9.7\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="ant.file.type.project" value="file" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="D:\eclipse\plugins\org.eclipse.pde.build_3.10.600.v20191011-0535\." />
+
+          <property name="java.io.tmpdir" value="C:\Users\CATAST~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_202\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="D:\javaworkspace\Calculator" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer1" value="C:\Users\CATAST~1\AppData\Local\Temp\null1046630356" />
+
+          <property name="org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer0" value="C:\Users\CATAST~1\AppData\Local\Temp\null37694174" />
+
+          <property name="basedir" value="D:\javaworkspace\Calculator" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="D:\javaworkspace\Calculator\apache-ant-1.9.7\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="ant.project.invoked-targets" value="test,compile,init,test,init,compile,junit" />
+
+      </properties>
+
+      <testcase classname="CalculatorTest" name="testClear" time="0.0" />
+
+      <testcase classname="CalculatorTest" name="testAdd1" time="0.0" />
+
+      <testcase classname="CalculatorTest" name="testAdd2" time="0.001" />
+
+      <testcase classname="CalculatorTest" name="testDivide" time="0.0" />
+
+      <testcase classname="CalculatorTest" name="testSquare" time="0.0" />
+
+      <testcase classname="CalculatorTest" name="testSquareRoot" time="0.036">
+          <error message="test timed out after 20 milliseconds" type="java.lang.Exception">java.lang.Exception: test timed out after 20 milliseconds
+	at Calculator.squareRoot(Unknown Source)
+	at CalculatorTest.testSquareRoot(Unknown Source)
+</error>
+
+      </testcase>
+
+      <testcase classname="CalculatorTest" name="testSubstract2" time="0.0">
+          <failure message="expected:&lt;10&gt; but was:&lt;19&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;10&gt; but was:&lt;19&gt;
+	at CalculatorTest.testSubstract2(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <testcase classname="CalculatorTest" name="testMultiply1" time="0.0">
+          <failure message="expected:&lt;200&gt; but was:&lt;20&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;200&gt; but was:&lt;20&gt;
+	at CalculatorTest.testMultiply1(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <testcase classname="CalculatorTest" name="testMultiply2" time="0.001">
+          <failure message="expected:&lt;-200&gt; but was:&lt;-1&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-200&gt; but was:&lt;-1&gt;
+	at CalculatorTest.testMultiply2(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <testcase classname="CalculatorTest" name="testSubstract1" time="0.0">
+          <failure message="expected:&lt;-10&gt; but was:&lt;-1&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;-10&gt; but was:&lt;-1&gt;
+	at CalculatorTest.testSubstract1(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <testcase classname="CalculatorTest" name="testGetResult" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
