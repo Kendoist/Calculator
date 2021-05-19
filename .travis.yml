@@ -1,0 +1,4 @@
+language: java
+script: ant build
+sudo: required
+before_install: sudo apt-get install ant-optional
